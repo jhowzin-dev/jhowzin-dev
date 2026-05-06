@@ -13,15 +13,6 @@
     <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Database">
   </p>
 
-  <!-- Card de Estatísticas do GitHub (Sem foto) -->
-  <a href="https://github.com/jhonatan-paula-dev">
-
-  </a>
-  <a href="https://github.com/jhonatan-paula-dev">
-   
-  </p>
-</div>
-
 <br />
 
 ### Sobre Mim 🚀
