@@ -1,35 +1,55 @@
-# Olá, Eu sou Jhonatan Willian!
+<div align="center">
+  <h1> Olá, Eu sou Jhonatan Willian!</h1>
 
-*   👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
+  <p>
+    <strong>Desenvolvedor Backend Java JR | Spring Boot | Next.js | Flutter | Software Developer</strong>
+  </p>
 
-### Stacks de trabalho 🚀
+  <!-- Badges de Foco/Destaque -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-green?style=flat-square" alt="Focus">
+    <img src="https://img.shields.io/badge/Architecture-Layered%20Pattern-blue?style=flat-square" alt="Architecture">
+    <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mobile">
+    <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Database">
+  </p>
 
-*   Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**[cite: 2].
-*   Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
-*   Desenvolvimento mobile com **Flutter e Dart**.
-*   Experiência com banco de dados **PostgreSQL, SQL** e integração com **Spring Data JPA**[cite: 2].
-*   Conhecimento em arquitetura em camadas (**Controller, Service e Repository**) e **Docker**[cite: 2].
-*   Versionamento de código com **Git e GitHub**[cite: 2].
+  <!-- Card de Estatísticas do GitHub (Sem foto) -->
+  <a href="https://github.com/jhonatan-paula-dev">
 
-### Contato
+  </a>
+  <a href="https://github.com/jhonatan-paula-dev">
+   
+  </p>
+</div>
 
-*   📧 Contate-me por email: [jhonatanwillian2006@gmail.com](mailto:jhonatanwillian2006@gmail.com)[cite: 2]
+<br />
 
-### Técnologias que utilizo no meu dia
+### Sobre Mim 🚀
+
+*   👨‍💻 Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**.
+*   🌐 Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
+*   📱 Desenvolvimento mobile com **Flutter e Dart**.
+*   🗄️ Experiência com **PostgreSQL** e integração com **Spring Data JPA**.
+*   🐳 Conhecimento em **Docker** e arquitetura em camadas.
+
+### Tecnologias que utilizo no meu dia
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,nextjs,tailwind,flutter,supabase,git,github,postman&perline=1" />
 </p>
 
----
+### Inspirações
 
-<div align="left">
-  <a href="SEU_LINK_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:jhonatanwillian2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-121011?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jhonatan-willian-feitosa-de-paula/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/5511942971726" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
+> "Na minha cabeça, eu sou o melhor. Se não pensarmos assim não temos ambição." — **Cristiano Ronaldo**
 
 <br />
 
-**Apaixonado por tecnologia, games e o universo. "SIIIUUU!" ⚽**
+<!-- Links de Contato Centralizados -->
+<div align="center">
+  <a href="mailto:jhonatanwillian2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-121011?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jhonatan-paula-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
