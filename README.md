@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Olá, Eu sou Jhonatan Willian!</h1>
+  <h1>👋 Olá, Eu sou Jhonatan Willian!</h1>
 
   <p>
     <strong>Desenvolvedor Backend Java JR | Spring Boot | Next.js | Flutter | Software Developer</strong>
@@ -12,22 +12,30 @@
     <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mobile">
     <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Database">
   </p>
+</div>
 
 <br />
 
 ### Sobre Mim 🚀
 
-  👨‍💻 Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**.
-   🌐 Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
-  📱 Desenvolvimento mobile com **Flutter e Dart**.
-   🗄️ Experiência com **PostgreSQL** e integração com **Spring Data JPA**.
-   🐳 Conhecimento em **Docker** e arquitetura em camadas.
+* 👨‍💻 Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**.
+* 🌐 Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
+* 📱 Desenvolvimento mobile com **Flutter e Dart**.
+* 🗄️ Experiência com **PostgreSQL** e integração com **Spring Data JPA**.
+* 🐳 Conhecimento em **Docker** e arquitetura em camadas.
 
-### Tecnologias que utilizo no meu dia
+<br />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,nextjs,tailwind,flutter,supabase,git,github,postman&perline=1" />
-</p>
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,nextjs,tailwind,flutter,supabase,git,github,postman&perline=11" />
+  </a>
+</div>
+
+<br />
+
 
 ### Inspirações
 
