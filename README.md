@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Olá, Eu sou Jhonatan Willian!</h1>
+  <h1> Olá, Eu sou Jhonatan Willian!</h1>
 
   <p>
     <strong>Desenvolvedor Backend Java JR | Spring Boot | Next.js | Flutter | Software Developer</strong>
