@@ -17,11 +17,11 @@
 
 ### Sobre Mim 🚀
 
-*   👨‍💻 Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**.
-*   🌐 Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
-*   📱 Desenvolvimento mobile com **Flutter e Dart**.
-*   🗄️ Experiência com **PostgreSQL** e integração com **Spring Data JPA**.
-*   🐳 Conhecimento em **Docker** e arquitetura em camadas.
+  👨‍💻 Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**.
+   🌐 Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
+  📱 Desenvolvimento mobile com **Flutter e Dart**.
+   🗄️ Experiência com **PostgreSQL** e integração com **Spring Data JPA**.
+   🐳 Conhecimento em **Docker** e arquitetura em camadas.
 
 ### Tecnologias que utilizo no meu dia
 
