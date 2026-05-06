@@ -46,9 +46,6 @@
 
 <!-- Links de Contato Centralizados -->
 <div align="center">
-  <a href="mailto:jhonatanwillian2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-121011?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/jhonatan-paula-dev" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
