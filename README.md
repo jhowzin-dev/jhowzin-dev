@@ -16,7 +16,7 @@
 
 <br />
 
-### Sobre Mim 🚀
+### Sobre Mim:
 
 * 👨‍💻 Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**.
 * 🌐 Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
