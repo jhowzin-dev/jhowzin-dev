@@ -12,6 +12,13 @@
     <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Mobile">
     <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Database">
   </p>
+
+  <!-- Animação Snake com suporte a Tema Dark/Light -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhowzin-dev/jhowzin-dev/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhowzin-dev/jhowzin-dev/output/snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/jhowzin-dev/jhowzin-dev/output/snake.svg">
+  </picture>
 </div>
 
 <br />
@@ -35,7 +42,6 @@
 </div>
 
 <br />
-
 
 ### Inspirações
 
