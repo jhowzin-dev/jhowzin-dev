@@ -2,7 +2,7 @@
   <h1> Olá, Eu sou Jhonatan Willian!</h1>
 
   <p>
-    <strong>Desenvolvedor Backend Java JR | Spring Boot | Next.js | Flutter | Software Developer</strong>
+    <strong>Desenvolvedor Backend Java | Spring Boot | Next.js | Flutter | Software Developer</strong>
   </p>
 
   <!-- Badges de Foco/Destaque -->
