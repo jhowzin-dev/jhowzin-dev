@@ -1,5 +1,7 @@
 <div align="center">
-  <h1> Olá, Eu sou Jhonatan Willian!</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=80&section=header&animation=fadeIn" width="100%" />
+
+  <h1>Olá, Eu sou Jhonatan Willian!</h1>
 
   <p>
     <strong>Desenvolvedor Backend Java | Spring Boot | Next.js | Flutter | Software Developer</strong>
@@ -25,15 +27,15 @@
 
 ### Sobre Mim:
 
-* 👨‍💻 Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**.
-* 🌐 Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
-* 📱 Desenvolvimento mobile com **Flutter e Dart**.
-* 🗄️ Experiência com **PostgreSQL** e integração com **Spring Data JPA**.
-* 🐳 Conhecimento em **Docker** e arquitetura em camadas.
+* Desenvolvimento backend utilizando **Java 17, Spring Boot 3, Spring Security e JWT**.
+* Desenvolvimento frontend com **Next.js, React e Tailwind CSS**.
+* Desenvolvimento mobile com **Flutter e Dart**.
+* Experiência com **PostgreSQL** e integração com **Spring Data JPA**.
+* Conhecimento em **Docker** e arquitetura em camadas.
 
 <br />
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="left">
   <a href="https://skillicons.dev">
@@ -49,9 +51,18 @@
 
 <br />
 
-<!-- Links de Contato Centralizados -->
+<!-- Links de Contato Centralizados com Botões Estilizados -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/jhonatan-paula-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <p>
+    <a href="mailto:jhonatanwillian2006@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/jhonatan-paula-dev" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  </p>
+</div>
+
+<div align="center" style="margin-top: 20px; line-height: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:0d1117&height=80&section=footer" width="100%" />
 </div>
